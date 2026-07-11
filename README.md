@@ -75,7 +75,7 @@ portfolio-builder/
 
 ## 🤖 AI-Assisted Development
 
-This project was developed using AI-assisted development tools for UI design, code generation, debugging, and documentation. The project was customized, tested, refined, and managed by me.
+This project demonstrates an AI-assisted development workflow. AI tools were used to accelerate UI design, code generation, debugging, and documentation, while I customized the application, verified functionality, tested features, and prepared it for deployment.
 
 ---
 
